@@ -6,7 +6,7 @@ Hi, I'm Shubhankar, Open Source developer @ [CircuitVerse](https://www.circuitve
 - 👯 I’m looking for new opportunities in Software Engineering and Backend Development.
 - 🤔 I’m looking for contributions to interesting open source repositories.
 - 💬 Ask me about anything, I am happy to help.
-- 📫 How to reach me: shubhankarsharma00@gmail.com
+- 📫 How to reach me: shubhankarsharma78@gmail.com
 - :heart: Open Source
 
 **Languages and Tools:** 
